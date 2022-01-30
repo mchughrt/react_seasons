@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.898c9a0b.css",
-    "main.js": "/static/js/main.b548fa73.js",
-    "index.html": "/index.html",
-    "main.898c9a0b.css.map": "/static/css/main.898c9a0b.css.map",
-    "main.b548fa73.js.map": "/static/js/main.b548fa73.js.map"
+    "main.css": "/mchughrt/react_seasons/static/css/main.898c9a0b.css",
+    "main.js": "/mchughrt/react_seasons/static/js/main.b548fa73.js",
+    "index.html": "/mchughrt/react_seasons/index.html",
+    "main.898c9a0b.css.map": "/mchughrt/react_seasons/static/css/main.898c9a0b.css.map",
+    "main.b548fa73.js.map": "/mchughrt/react_seasons/static/js/main.b548fa73.js.map"
   },
   "entrypoints": [
     "static/css/main.898c9a0b.css",
